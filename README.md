@@ -64,11 +64,12 @@ monthly_report_bot/
 ---
 
 ## 🧾 Пример сообщения в Telegram
-
+```text
 ✅ Отчёт готов
 Клиент: Dapdaiyn
 Период: 01.10–20.10
 https://docs.google.com/spreadsheets/d/1vQRDQgDrfu1dWXW9Fsf6gWoGO8FRxZS6U1gurd_lnCw
+```
 
 ---
 
