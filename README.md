@@ -1,7 +1,7 @@
 # 🧾 Monthly Report Bot
 
 ![status](https://img.shields.io/badge/status-deployed%20on%20server-34c759?style=for-the-badge)
-![madeby](https://img.shields.io/badge/made%20by-Qeepe%20Agency-6E43A3?style=for-the-badge)
+![madeby](https://img.shields.io/badge/made%20by-Timur%20Temirkhanov-6E43A3?style=for-the-badge)
 
 **Telegram-бот для автоматического формирования ежемесячных отчётов по рекламе клиентов.**  
 Проект — часть экосистемы **Qeepe Agency**: помогает ускорить отчётность, уменьшить ручную работу и синхронизировать данные между **Facebook Ads**, **Google Sheets** и **Telegram-форумом**.
