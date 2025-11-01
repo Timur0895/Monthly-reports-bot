@@ -1,0 +1,12 @@
+# виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+
+# приватные файлы
+.env
+credentials.json
+
+# системное
+.DS_Store
+*.log
